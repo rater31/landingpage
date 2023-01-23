@@ -1,0 +1,12 @@
+.enca{
+    height: 60vh;
+    background-image: url(./imm.gif);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
+    /* background-attachment: fixed; */
+}
+.bg{
+    height: 60vh;
+    background-color: rgba(78, 78, 78, .6);
+}
