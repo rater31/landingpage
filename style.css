@@ -10,3 +10,15 @@
     height: 60vh;
     background-color: rgba(78, 78, 78, .6);
 }
+.cuadro{
+    border-radius: 10px;
+}
+.fondo{
+    background-image: url(./impresora-en-3d.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.titulo{
+    width: 100vh;
+}
