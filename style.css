@@ -22,3 +22,14 @@
 .titulo{
     width: 100vh;
 }
+.bg-whap{
+    background-color: green;
+    border-radius: 100%;
+    height: 60px;
+    width: 60px;
+    /* text-align: center; */
+}
+.btn-whap{
+    color: white;
+    text-decoration: none;
+}
